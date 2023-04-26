@@ -18,11 +18,7 @@ To better understand the code, pay attention to the following:
 
 ## Getting Started
 
-To get started with this project, first clone or fork it from the following GitHub repository:
-
-https://github.com/kingsley-ijomah/React-State-Projects
-
-Then, follow these steps to install the dependencies and run the project:
+To get started with this project, follow these steps to install the dependencies and run the project:
 
 1. Install the project dependencies using Yarn:
 
